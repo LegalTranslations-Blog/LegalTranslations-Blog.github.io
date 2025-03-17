@@ -2,7 +2,7 @@ User-agent: *
 Disallow: /private/
 Allow: /
 Crawl-delay: 10
-Sitemap: https://legaltranslations-blog.github.io/sitemap.xml
+Sitemap: https://blog.legaltranslations.be/sitemap.xml
 
 User-agent: Googlebot
 Disallow: /no-google/
